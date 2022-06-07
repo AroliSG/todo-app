@@ -24,7 +24,7 @@ const LandingStyle = StyleSheet.create ({
     },
     sampleBoxParent: {
         width: '98%',
-        margin: 10,
+        margin: 10,   
         padding: 2,
     },
     buttonParent: {
